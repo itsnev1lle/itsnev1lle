@@ -51,13 +51,11 @@ I'm open to collaborate on anything tech-related, especially student-led or open
 
 ## 👾 Contribution Animations
 
-### 🟡 Pacman Eating My Contributions  
-![Pacman](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/pacman.svg)
+### 🟡 Pacman Eating My Contributions
+![Pacman](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/pacman-contribution-graph.svg)
 
-### 🐍 Snake Crawling Through My Code  
-![Snake](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/dist/snake.svg)
-
-*(Dark mode version available [here](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/dist/snake-dark.svg))*
+### 🐍 Snake Crawling Through My Code
+![Snake](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/snake.svg)
 
 ---
 
