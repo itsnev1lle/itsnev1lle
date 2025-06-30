@@ -22,8 +22,21 @@ I'm an <strong>undergraduate Informatics Engineering student</strong> at <strong
 
 ### 🛠️ Tech Stack
 
-```bash
-Languages:     Python, PHP
-Web Dev:       HTML, CSS
-Tools & IDEs:  VS Code, Git, GitHub, Figma, Jupyter Notebook
-Currently:     Exploring AI, and AR
+- **Languages:** Python 🐍, PHP  
+- **Web Dev:** HTML, CSS  
+- **Tools & IDEs:** VS Code, Git, GitHub, Figma, Jupyter Notebook  
+- **Currently Exploring:** AI 🤖, AR 🕶️, Pacman 👾, Snake 🐍  
+
+---
+
+### 👾 Contribution Animations
+
+#### 🟡 Pacman Eating Contributions
+![Pacman](./pacman-contribution-graph.svg)
+
+#### 🐍 Snake Eating Contributions
+![Snake](https://github.com/itsnev1lle/itsnev1lle/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> Thanks for visiting my profile! 🌟
