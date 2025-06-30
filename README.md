@@ -11,7 +11,6 @@
 ### 🚀 About Me
 I'm an <strong>undergraduate Informatics Engineering student</strong> at <strong>Universitas Muhammadiyah Sorong</strong>, currently in my 4th semester. I'm passionate about exploring the world of <strong>machine learning, artificial intelligence</strong>, and everything in between. I enjoy building projects that combine logic and creativity — whether it’s developing web apps, working on machine learning models, or tinkering with new tools.
 
-
 - 🌱 I’m learning about: 
   - Machine Learning & AI
   - Git & version control
