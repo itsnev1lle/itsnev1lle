@@ -31,11 +31,13 @@ I'm an <strong>undergraduate Informatics Engineering student</strong> at <strong
 
 ### 👾 Contribution Animations
 
-#### 🟡 Pacman Eating Contributions
-![Pacman](./pacman-contribution-graph.svg)
+#### 🟡 Pacman Eating My Contributions
+![Pacman](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/pacman.svg)
 
-#### 🐍 Snake Eating Contributions
-![Snake](https://github.com/itsnev1lle/itsnev1lle/blob/output/github-contribution-grid-snake.svg)
+#### 🐍 Snake Crawling Through My Code
+![Snake](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/dist/snake.svg)
+
+*(Dark mode version available [here](https://raw.githubusercontent.com/itsnev1lle/itsnev1lle/output/dist/snake-dark.svg))*
 
 ---
 
