@@ -43,9 +43,7 @@ I'm open to collaborate on anything tech-related, especially student-led or open
 
 **Currently Exploring:**  
 - AI 🤖  
-- AR 🕶️  
-- Pacman 👾  
-- Snake 🐍  
+- AR 🕶️   
 
 ---
 
