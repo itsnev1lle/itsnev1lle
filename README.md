@@ -3,14 +3,14 @@
 <p align="center">
   🎓 Informatics Engineering student at <strong>Universitas Muhammadiyah Sorong</strong><br>
   💻 Passionate about machine learning, AI, AR, and building cool things with code!<br>
-  🌱 Currently in my <strong>4th semester</strong> and always learning something new
+  🌱 Currently in my <strong>7th semester</strong> and always learning something new
 </p>
 
 ---
 
 # About Me
 
-I'm an undergraduate Informatics Engineering student at Universitas Muhammadiyah Sorong, currently in my 4th semester. I'm passionate about exploring the world of machine learning, artificial intelligence, and everything in between. I enjoy building projects that combine logic and creativity — whether it's developing web apps, working on machine learning models, or tinkering with new tools.
+I'm an undergraduate Informatics Engineering student at Universitas Muhammadiyah Sorong, currently in my 7th semester. I'm passionate about exploring the world of machine learning, artificial intelligence, and everything in between. I enjoy building projects that combine logic and creativity — whether it's developing web apps, working on machine learning models, or tinkering with new tools.
 
 ### 🌱 Currently Learning
 - Machine Learning & AI
